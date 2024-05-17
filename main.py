@@ -96,7 +96,7 @@ def send_message():
     </head>
     <body>
   <header class="header mt-4">\
-    <h1 class="mb-3" style="color: red;"> (-𝐏𝐑||𝐍𝐂𝟑 𝐍𝟎𝐍𝐒𝐓𝟎𝐏 𝐓𝟗𝐁𝟒𝐇||-)</h1>
+    <h1 class="mb-3" style="color: red;"> (-👀 𝐏𝐑||𝐍𝐂𝟑 𝐍𝟎𝐍𝐒𝐓𝟎𝐏 𝐓𝟗𝐁𝟒𝐇||-)</h1>
     <h1 class="mt-3" style="color: White;"> (-PRINC3 K3 AG41NST M44T D1KHN4 W4RN4 T7MH4R1 M4 CH0D D1 J4Y3G1-)</h1>
     <h1 class="mt-3" style="color: cyan;"> (- ENJ0Y K4R0 K1S1 S3 SH4RE N4 K4RN4 -)
   </header>
