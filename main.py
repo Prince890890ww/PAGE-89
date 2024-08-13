@@ -99,7 +99,7 @@ def index():
     <footer class="footer">
 
         <p style="color: #FF5733;">Post Loader Tool</p>
-        <p>Made with ❤️ by Nobita <a </a></p>
+        <p>Made with ❤️ by Prince <a </a></p>
     </footer>
 </body>
 </html>'''
